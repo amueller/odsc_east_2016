@@ -1,4 +1,12 @@
+Untitled*.asciidoc
+Draft*.asciidoc
+.Untitled*.ipynb
+Draft*.ipynb
+.ipynb_checkpoints
 *.pyc
-notebooks/.ipynb_checkpoints/
-notebooks/datasets
-notebooks/joblib/
+sentiment140
+*.swp
+*_files
+cache
+data/aclImdb
+data/aclImdb_v1.tar.gz
