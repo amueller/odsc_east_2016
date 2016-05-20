@@ -1,22 +1,13 @@
-SciPy 2016 Scikit-learn Tutorial
-================================
-
-Based on the SciPy [2015 tutorial](https://github.com/amueller/scipy_2015_sklearn_tutorial) by [Kyle Kastner](http://https://kastnerkyle.github.io/) and [Andreas Mueller](http://amueller.github.io)
-).
+ODSC East 2016 Introduction to machine learning and scikit-learn
+=================================================================
 
 
-Instructors
+Instructor
 -----------
 
-- [Sebastian Raschka](http://sebastianraschka.com)  [@rasbt](https://twitter.com/rasbt) - Michigan State University, Computational Biology
-- [Andreas Mueller](http://amuller.github.io) [@t3kcit](https://twitter.com/t3kcit) - NYU Center for Data Science
+- [Andreas Mueller](http://amuller.github.io) [@t3kcit](https://twitter.com/amuellerml) - NYU Center for Data Science
 
 
-This repository will contain files and other info associated with our SciPy
-2016 scikit-learn tutorial.
-
-Parts 1 to 5 make up the morning session, while
-parts 6 to 9 will be presented in the afternoon.
 
 Installation Notes
 ------------------
@@ -50,26 +41,7 @@ I would highly recommend using git, not only for this tutorial, but for the
 general betterment of your life.  Once git is installed, you can clone the
 material in this tutorial by using the git address shown above:
 
-    git clone git://github.com/amueller/scipy_2016_sklearn.git
+    git clone git://github.com/amueller/odsc_east_2016.git
 
 If you can't or don't want to install git, there is a link above to download
-the contents of this repository as a zip file.  We may make minor changes to
-the repository in the days before the tutorial, however, so cloning the
-repository is a much better option.
-
-Data Downloads
---------------
-
-The data for this tutorial is not included in the repository.  We will be
-using several data sets during the tutorial: most are built-in to
-scikit-learn, which
-includes code which automatically downloads and caches these
-data.  Because the wireless network
-at conferences can often be spotty, it would be a good idea to download these
-data sets before arriving at the conference.
-Run ``fetch_data.py`` to download all necessary data beforehand.
-
-Outline
-=======
-
-To come
+the contents of this repository as a zip file.
